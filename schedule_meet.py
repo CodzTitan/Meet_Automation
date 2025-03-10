@@ -9,7 +9,7 @@ from twilio.rest import Client
 app = Flask(__name__)
 
 # Load Service Account Credentials
-SERVICE_ACCOUNT_FILE = "meet-automation-453304-fb8ebca0fd6a.json"
+SERVICE_ACCOUNT_FILE = "meet-automation-453304-f940f1154086.json"
 SCOPES = ["https://www.googleapis.com/auth/calendar.events"]
 
 credentials = service_account.Credentials.from_service_account_file(
