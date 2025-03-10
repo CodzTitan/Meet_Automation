@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "meet-automation-453304",
+  "private_key_id": "fb8ebca0fd6afdb967259b9412d5d5e4d24c94c0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXDHZPpuUDLcfx\nknijyItwu2VC6sHliGr9SncMUJqWcaM+yCMdsnptWDkGz2lMnOErhkQvO89ekFXW\n9sX8znVjAzmzqfWE9ieXabCaq+R+sxyL0VYupjYbI6SSTLXKNiT02eIUaZvs6RRr\nFYcrGZNznZqc4aPdizViHuT8McoOYqWlin80wVHlMVkYOPfOS7PdsVgoXambMjg3\nXrsPyhGno8e9IYK23pvZKmQJUeB2GbxB578W7zxyF2IU8T8/IpZAiowR4ne2ptkj\nfqxcdcKLIAot/Ek24uj8nMiBh38Hi9ydy47XGVqLSGpdUG9EOuxqBuvRD5yhFFVj\nE//d7WOxAgMBAAECggEAD3IwdEepRtlstVP/MMpog5QeMZiBjU5HWwKUevC2Lcyj\nPFDtPsaRRxXRYMUYi91vyevGrXrXCfSFid9nOKGOqmoypI42WZLBpL09Z1ql2pjc\nWcmTLl4XYEsm2LBEVW4eqOyWcb9lKPbT1d4xu32GiwUctBx749+KGc5cxaWA3RgE\nk4fPEr8EKNYpBBY3QAJqsSPM2AL6NEQWl1oJUCyvl17O3HfghU/fM9Dq0y4PLlLl\nM0+OwmhY1eoPWmxMbB7UTgdkUiCdpRfSvYy7E6fs1qZ4yrUeizEMrqOrVSVsOWLQ\n9/X7CyVimrrXZh15lhWGJ/qokujX8Kxfh7SOaN+07QKBgQDx+7UK49VQYKkawwJk\nGNCxsmuxIUfByRaEFImuopK5TF6gs/IsilNK7jwE2IGlc7cXHN9wv/ADs++9rAot\nbZIcGubxpU8G4eQ28PIVlnDLbDui7sIkNaXjV6O9gAyy/VJetzqkFPu/pHzZ0UyQ\npAw76hQCzqPo3Xh2EWc+tfggDQKBgQDjgVncUqhGigxkOaetg/tYHsOe6FBX3bsE\nLeR4mVJjBr+8Rzzn9EMstvzbiOwOOvRP1POHBg3MBzZMPYXhPozZ3vTEJjvCNKer\nBzhaxEdsUIO2G5+4dtpLXkgNGJQ+BqkDtiPEiGr67JcMuNWlTTMfTrNRjzLdhELt\n9S0byoiFNQKBgQC09ssuqLHXGWJ9jAbWuqQfr9HPtpbGOk7nWcCZZCUcBBvkTI44\ndv3RVJZ3/T3/cKkk1MfYtwGUk1Uf4HAAByg0cn3xivGtsPMNj2VLdaVGy9tRfwKb\nN6+mc90VE5TrqnyWLqrhGHwolqdz8Y0zwisQB38NlmGH/VBf46X1hPpZZQKBgFOS\n8frQ1oZLMjAjSeihAlUlwAEBIHqWtpvbbAGteSltkkPM+5/OCFtFwW+4RdcYayVk\nei2Q2MKpp5WsSCEthDqI/+uKjAtUon9egKI/VmmAzlG4phzydFCZiuhcriB2++Gk\nKFGLN5mEDh0bTUiTKoOGurLsYugjLR8TIQYDidE9AoGBAL91OfUBAVyeLXEKtsV8\nTNwxbx3mhb32a8DuHpG0IoTo+HUUrfP30TQ4xJPXefUibuZGYtZncX9DuF7EnuTl\novobo6agHuyUae4bV/h8f6EEjb2BeHAIbNanKRGOnW6Qxa22vgZ17AewSBIXAqI9\niJmGKhRw4QboJvJmk+A28R+X\n-----END PRIVATE KEY-----\n",
+  "client_email": "meet-automation@meet-automation-453304.iam.gserviceaccount.com",
+  "client_id": "116311379875909237504",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/meet-automation%40meet-automation-453304.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
